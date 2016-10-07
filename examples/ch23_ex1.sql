@@ -1,0 +1,1 @@
+SELECT time_id, channel_id, prod_id, ROUND (SUM(amount_sold)) AS TOTAL FROM SALES WHERE time_id BETWEEN '01-JAN-98' AND '31-JAN-98' AND prod_id IN (SELECT prod_id FROM products WHERE prod_name IN ('5MP Telephoto Digital Camera','17" LCD w/built-in HDTV Tuner','Envoy 256MB - 40GB','Y Box','Mini DV Camcorder with 3.5" Swivel LCD')) GROUP BY ROLLUP (time_id, (channel_id, prod_id));

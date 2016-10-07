@@ -1,0 +1,12 @@
+01-JAN-00:31-JAN-00:5MP Telephoto Digital Camera:17" LCD w/built-in HDTV Tuner:Envoy 256MB - 40GB:Y Box:Mini DV Camcorder with 3.5" Swivel LCD
+01-FEB-00:29-FEB-00:Envoy Ambassador:Laptop carrying case:Home Theatre Package with DVD-Audio/Video Play:18" Flat Panel Graphics Monitor:Envoy External Keyboard
+01-MAR-00:31-MAR-00:External 101-key keyboard:PCMCIA modem/fax 28800 baud:SIMM- 8MB PCMCIAII card:SIMM- 16MB PCMCIAII card:Multimedia speakers- 3" cones
+01-APR-00:30-APR-00:Unix/Windows 1-user pack:8.3 Minitower Speaker:Mouse Pad:1.44MB External 3.5" Diskette:Multimedia speakers- 5" cones
+01-MAY-00:31-MAY-00:PCMCIA modem/fax 19200 baud:External 6X CD-ROM:External 8X CD-ROM:Envoy External 6X CD-ROM:Envoy External 8X CD-ROM
+01-JUN-00:30-JUN-00:Internal 6X CD-ROM:Internal 8X CD-ROM:O/S Documentation Set - English:O/S Documentation Set - German:O/S Documentation Set - French:O/S Documentation Set - Spanish
+01-JUL-00:31-JUL-00:O/S Documentation Set - Italian:O/S Documentation Set - Kanji:Standard Mouse:Deluxe Mouse:Keyboard Wrist Rest:CD-R Mini Discs
+01-AUG-00:31-AUG-00:Music CD-R:CD-RW, High Speed, Pack of 10:CD-RW, High Speed Pack of 5:CD-R, Professional Grade, Pack of 10:OraMusic CD-R, Pack of 10
+01-SEP-00:30-SEP-00:CD-R with Jewel Cases, pACK OF 12:DVD-R Disc with Jewel Case, 4.7 GB:DVD-RAM Jewel Case, Double-Sided, 9.4G:DVD-R Discs, 4.7GB, Pack of 5:DVD-R Discs, 4.7GB, Pack of 5
+01-OCT-00:31-OCT-00:DVD-RW Discs, 4.7GB, Pack of 3:3 1/2" Bulk diskettes, Box of 50:3 1/2" Bulk diskettes, Box of 100:Model CD13272 Tricolor Ink Cartridge:Model SM26273 Black Ink Cartridge
+01-NOV-00:30-NOV-00:Model NM500X High Yield Toner Cartridge:Model A3827H Black Image Cartridge:Model K3822L Cordless Phone Battery:Model C9827B Cordless Phone Battery:Model K8822S Cordless Phone Battery
+01-DEC-00:31-DEC-00:Model C93822D Wireless Phone Battery:S27273M Extended Use w/l Phone Batt.:64MB Memory Card:128MB Memory Card:256MB Memory Card
